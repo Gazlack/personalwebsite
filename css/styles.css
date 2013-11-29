@@ -1,0 +1,28 @@
+/* INFO ABOUT CSS
+
+class =  .
+
+id = # 
+
+*/
+
+.top-bar{
+	background-color: #002A4A;
+}
+
+.top-bar-section li a:not(.button){
+	background-color: #002A4A;
+}
+
+#main-img{
+	background: #f5f5f5 url('../images/main_img.jpg') no-repeat center center;
+	height: 500px;
+	padding: 150px;
+}
+
+#main-img h1 {
+	color: #ffffff;
+	text-align: center;
+	font-size: 100px;
+	background-color: #FF9311;
+}
